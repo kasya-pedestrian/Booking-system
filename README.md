@@ -6,7 +6,6 @@
 ![image](https://user-images.githubusercontent.com/50653521/156273916-b555290a-a0c7-4e36-85ca-dc354de10001.png)
 ![image](https://user-images.githubusercontent.com/50653521/156273925-9c0b5b0a-0308-406e-990d-b785985093b6.png)
 
-![image](https://user-images.githubusercontent.com/50653521/156273943-07b5fd38-2dcb-4bd8-bc4d-dd3612897d9b.png)
 课题
 選択した座席が分かりづらい
 座席数が多い場合の予約機能の実装
